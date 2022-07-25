@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShaileshGupta0
+- 👋 Hi, I’m Shailesh Gupta
 - 👀 I’m interested in Codes that is encoded with Algorithm.
 - 🌱 I’m currently learning Back-ends tools that help me to create a good website.
 - 💞️ I’m looking to collaborate on 
